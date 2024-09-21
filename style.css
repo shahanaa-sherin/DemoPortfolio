@@ -1,0 +1,115 @@
+
+
+.email{
+    color: rgb(221, 146, 6) ;
+}
+#about{
+    font-size: 16px;
+    color: #c4c0c0;
+    line-height: 1.6;
+    width: 70%;
+    margin-bottom: 20px;
+    margin-top: 70px;
+}
+.social-links{
+    display: flex;
+    justify-content: start;
+    margin-top: 20px;
+}
+.social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.social-icon:hover{
+    background-color: rgb(221, 146, 6);
+}
+.experience-item p {
+    font-size: 16px;
+    color: #888787;
+    line-height: 1.6; 
+    width: 50%; 
+    margin-bottom: 20px;
+  }
+  
+  .experience-item {
+    margin-bottom: 30px;
+  }
+.edu{
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+.content h2{
+    font-size: 1.4em;
+    font-weight: bold;
+    color: black;
+    margin-left: 30px;
+}
+.edutitle{
+    display: flex;
+    justify-content: space-between;
+}
+.date{
+    color: rgb(167, 9, 9);
+    font-size: 16px;
+    font-weight: normal;
+}
+.content h3{
+    font-size: 1em;
+    font-weight: normal;
+    color: #888787;
+    margin-left: 30px;
+}
+.skillicons{
+    display: flex;
+    justify-content: space-around;
+    font-size: 3em;
+    color: rgb(112, 111, 111);
+}
+.skillicons i:hover{
+    color: rgb(221, 146, 6);
+}
+.workflowlist li{
+    color: rgb(112, 111, 111);
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.content p{
+    margin-left: 30px;
+    color: rgb(112, 111, 111);
+}
+.hr{
+    margin-left: 30px;
+    margin-top:5em;
+    margin-bottom: 40px;
+    border: 1px solid rgb(228, 227, 227);
+    
+}
+.content h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(68, 66, 66);
+    margin-left: 30px;
+    font-family: "Oswald", sans-serif;
+   
+}
+
+.content ul{
+    font-size: 15px;
+    color:  rgb(68, 66, 66);
+    list-style-type: none;
+}
+.fa-trophy{
+    color: rgb(248, 197, 11);
+    font-size: 14px;
+    margin-right: 5px;
+}
